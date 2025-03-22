@@ -66,6 +66,10 @@
     overflow: hidden;
     color: black;
     transition: max-height 0.5s ease;
+    outline: auto;
+    padding: 5px;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 
   .panel.show {
